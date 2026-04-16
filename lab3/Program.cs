@@ -77,7 +77,7 @@ namespace lab3
                 }
             }
 
-            // 6. Робота з HashSet (коротко)
+            // 6. Робота з HashSet 
             Console.WriteLine("\n=== Пункт 6: Робота з HashSet (множини) ===");
             HashSet<string> setA = new HashSet<string> { "Laptops", "Gaming", "Work" };
             HashSet<string> setB = new HashSet<string> { "Gaming", "Sale", "Work" };
@@ -85,7 +85,6 @@ namespace lab3
             setA.IntersectWith(setB); // Залишаємо тільки спільні елементи
             Console.WriteLine($"Спільні категорії: {string.Join(", ", setA)}");
             
-            Console.WriteLine("\nРоботу завершено. Натисніть будь-яку клавішу...");
             Console.ReadKey();
         }
     }
