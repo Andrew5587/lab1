@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Store>
+  <Product Category="Ноутбуки">
+    <Name>ASUS Vivobook</Name>
+    <Price>1200.5</Price>
+  </Product>
+  <Product Category="Смартфони">
+    <Name>iPhone 15 Pro</Name>
+    <Price>1100</Price>
+  </Product>
+  <Product Category="Смартфони">
+    <Name>Samsung Galaxy S24</Name>
+    <Price>950</Price>
+  </Product>
+</Store>

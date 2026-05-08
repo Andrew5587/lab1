@@ -1,0 +1,31 @@
+[
+  {
+    "$type": "laptop",
+    "Processor": "Intel Core i7",
+    "Name": "ASUS Vivobook",
+    "Price": 1200.5,
+    "InStock": true
+  },
+  {
+    "$type": "smartphone",
+    "BatteryCapacity": 3274,
+    "Name": "iPhone 15 Pro",
+    "Price": 1100,
+    "InStock": true
+  },
+  {
+    "$type": "laptop",
+    "Processor": "Intel Core i9",
+    "Name": "Dell XPS 15",
+    "Price": 2500,
+    "InStock": false
+  },
+  {
+    "$type": "smartphone",
+    "BatteryCapacity": 4000,
+    "Name": "Samsung Galaxy S24",
+    "Price": 950,
+    "InStock": true
+    
+  }
+]
