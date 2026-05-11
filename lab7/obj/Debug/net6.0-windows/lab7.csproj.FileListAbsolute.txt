@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\лаб Кубик нет\lab7\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Desktop\лаб Кубик нет\lab7\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\лаб Кубик нет\lab7\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\лаб Кубик нет\lab7\obj\Debug\net6.0-windows\lab7_MarkupCompile.cache
+C:\Users\User\Desktop\лаб Кубик нет\lab7\obj\Debug\net6.0-windows\lab7.g.resources
+C:\Users\User\Desktop\лаб Кубик нет\lab7\obj\Debug\net6.0-windows\lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\лаб Кубик нет\lab7\obj\Debug\net6.0-windows\lab7.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\лаб Кубик нет\lab7\obj\Debug\net6.0-windows\lab7.AssemblyInfo.cs
+C:\Users\User\Desktop\лаб Кубик нет\lab7\obj\Debug\net6.0-windows\lab7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\лаб Кубик нет\lab7\obj\Debug\net6.0-windows\lab7.sourcelink.json
