@@ -1,0 +1,37 @@
+[
+  {
+    "$type": "laptop",
+    "Processor": null,
+    "Name": "Asus L1",
+    "Price": 25000,
+    "InStock": true
+  },
+  {
+    "$type": "smartphone",
+    "BatteryCapacity": 0,
+    "Name": "iPhone 15",
+    "Price": 45000,
+    "InStock": false
+  },
+  {
+    "$type": "smartphone",
+    "BatteryCapacity": 0,
+    "Name": "New Device",
+    "Price": 10000,
+    "InStock": true
+  },
+  {
+    "$type": "smartphone",
+    "BatteryCapacity": 0,
+    "Name": "New Device",
+    "Price": 10000,
+    "InStock": true
+  },
+  {
+    "$type": "smartphone",
+    "BatteryCapacity": 0,
+    "Name": "New Device",
+    "Price": 10000,
+    "InStock": true
+  }
+]
